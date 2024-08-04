@@ -76,7 +76,7 @@ plugins=(git
 )
 
 source $ZSH/oh-my-zsh.sh
-source ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins
 
 # User configuration
 
